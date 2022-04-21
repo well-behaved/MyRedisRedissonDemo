@@ -1,0 +1,16 @@
+.classpath
+.project
+.settings/
+catalina.base_IS_UNDEFINED/
+target/
+*.iml
+.idea/
+**/APP_HOME_IS_UNDEFINED
+**/version.vm
+**/mybatisgeneratore
+*/*.iml
+**/.DS_Store
+web/APP_NAME_IS_UNDEFINED/
+.vscode/
+.factorypath
+
